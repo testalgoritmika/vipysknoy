@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(189,189, 249);
+    padding: 20px;
+}
+ 
+.gallery{
+    display: flex;
+    justify-content: left;
+}
+img{
+    width:250px ;
+    height:200px ;
+    margin-right: 50px;
+}
